@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 art smart<3
+art smart makmak
+>>>>>>> 429468b72f4bc4df864fcd57d36db642613ee1e4
