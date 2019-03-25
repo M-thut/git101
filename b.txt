@@ -1,1 +1,4 @@
-IamArt
+<<<<<<< HEAD
+IamAr
+hello
+>>>>>>> feature2
